@@ -1,0 +1,16 @@
+{
+    "name": "dy/lab",
+    "description": "Testowy",
+    "type": "project",
+    "require": {
+        "psr/log": "^3.0",
+        "symfony/console": "^7.1@RC"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DY"
+        }
+    ],
+    "minimum-stability": "RC"
+}
